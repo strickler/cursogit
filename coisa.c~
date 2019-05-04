@@ -1,0 +1,7 @@
+void main(){
+<<<<<<< HEAD
+	printf("Olá. eu sou master");
+=======
+	printf("Olá. sou do outro branch");
+>>>>>>> branch2
+}
