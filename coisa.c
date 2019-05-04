@@ -1,3 +1,3 @@
 void main(){
-	printf("Olá.");
+	printf("Olá. eu sou master");
 }
